@@ -16,4 +16,4 @@ Technologies Used
 - JavaScript: Implementing interactive features and real-time image editing.
   
 
-![Uploading image.png…]()
+![Screenshot 2024-04-14 004415](https://github.com/NourIbrahimNaji/Image-Editor/assets/106259972/87e35137-5877-4afd-adee-23be7fa4af7c)
