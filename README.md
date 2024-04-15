@@ -1,6 +1,5 @@
 # Image-Editor
 
-Image Editor
 Image Editor is a web-based tool that allows you to easily upload, edit, and enhance your images. With a variety of filters and effects, you can adjust the appearance of your photos and create stunning visuals. The intuitive interface and straightforward controls make it simple for users of all skill levels to fine-tune their images.
 
 Features
